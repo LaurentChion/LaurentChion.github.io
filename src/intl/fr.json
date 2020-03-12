@@ -1,0 +1,19 @@
+{
+  "title": "Laurent Chion",
+  "description": "Mon C.V.",
+  "author": "Laurent Chion",
+  "hello": "Bonjour !",
+  "welcome": "Bienvenue sur mon site.",
+  "notfound": {
+    "error": "Erreur 404 : Page non trouvé",
+    "header": "Page non trouvé.",
+    "description": "Mais où est passé cette page ? 🤔"
+  },
+  "built_with":"Fait avec ",
+
+  "nav": {
+    "resume": "CV",
+    "portfolio":"Portfolio",
+    "papers": "Publications"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Laurent Chion",
+  "description": "Just my resume",
+  "author": "Laurent Chion",
+  "hello": "Hi!",
+  "welcome": "Welcome to my website",
+  "notfound": {
+    "error": "Error 404: Page not found",
+    "header": "Page not found.",
+    "description": "Where is this page? 🤔"
+  },
+  "built_with":"Built with ",
+
+  "nav": {
+    "resume": "Resume",
+    "portfolio":"Portfolio",
+    "papers": "Papers"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "gatsby-starter-default",
+  "private": true,
+  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "version": "0.1.0",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "dependencies": {
+    "@chakra-ui/core": "^0.6.1",
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "@theme-ui/presets": "^0.3.0",
+    "@types/theme-ui": "^0.3.0",
+    "emotion-theming": "^10.0.27",
+    "gatsby": "^2.19.27",
+    "gatsby-image": "^2.2.42",
+    "gatsby-plugin-intl": "^0.3.3",
+    "gatsby-plugin-manifest": "^2.2.42",
+    "gatsby-plugin-offline": "^3.0.35",
+    "gatsby-plugin-react-helmet": "^3.1.22",
+    "gatsby-plugin-sharp": "^2.4.5",
+    "gatsby-plugin-typescript": "^2.2.0",
+    "gatsby-source-filesystem": "^2.1.48",
+    "gatsby-transformer-sharp": "^2.3.16",
+    "intl": "^1.2.5",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-helmet": "^5.2.1",
+    "react-icons": "^3.9.0",
+    "react-intl": "^4.1.1",
+    "react-redux": "^7.2.0",
+    "react-vis": "^1.11.7",
+    "redux": "^4.0.5",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
